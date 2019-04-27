@@ -1,0 +1,6 @@
+programa que recebe varios nomes e idades e retorna um dicionario.
+funcao que retorna se um numero é palindromo.
+calculadora das 4 operacoes basicas
+fazer uma classe loja que tem estoque, vende, compra mais estoque e lucra
+funcao que retorna a sequencia de fibonnacci ate o n-ésimo termo
+funcao que retorna se um numero e primo 
