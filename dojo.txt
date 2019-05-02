@@ -2,6 +2,7 @@
 -funcao que retorna se um numero é palindromo.
 -calculadora das 4 operacoes basicas
 -classe animal que conta numero de patas, se possui rabo, se possui pelos, se possui penas, vertabrado, viviparos  oviparo
+-fazer classe filha do tipo mamifero a partir da classe animal.
 -fazer uma classe loja que tem estoque, vende, compra mais estoque e lucra
 -funcao que retorna a sequencia de fibonnacci ate o n-ésimo termo
 -funcao que retorna se um numero e primo 
